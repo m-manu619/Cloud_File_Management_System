@@ -1,0 +1,5 @@
+com\example\cloud_file_management_system\controller\FileController.class
+com\example\cloud_file_management_system\repository\FileMetadataRepository.class
+com\example\cloud_file_management_system\service\FileService.class
+com\example\cloud_file_management_system\model\FileMetadata.class
+com\example\cloud_file_management_system\CloudFileManagementSystemApplication.class

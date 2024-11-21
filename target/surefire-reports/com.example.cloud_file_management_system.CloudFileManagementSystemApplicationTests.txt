@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.cloud_file_management_system.CloudFileManagementSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.513 s -- in com.example.cloud_file_management_system.CloudFileManagementSystemApplicationTests
